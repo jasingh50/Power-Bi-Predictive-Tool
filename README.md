@@ -1,4 +1,4 @@
-# PowerBI-visuals-forcasting-exp
+
 R-powered custom visual. Based on exponential smoothing time series forecasting
 
 ![forcasting-exp screenshot](https://az158878.vo.msecnd.net/marketing/Partner_21474836617/Product_42949680601/Asset_efa13e33-fe39-4e80-8cdd-2db8aa4fbcbb/Forecastingscreenshot1.png)
